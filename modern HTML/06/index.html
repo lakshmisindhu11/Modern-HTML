@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML vs HTML5 Comparison</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #444;
+        }
+        table {
+            width: 60%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            border: 1px solid #ccc;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border: 1px solid #ccc;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        tr:nth-child(odd) {
+            background-color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Comparison of HTML vs HTML5</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>HTML</th>
+                <th>HTML5</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Uses SGML (Standard Generalized Markup Language) for document structure.</td>
+                <td>Uses XML (Extensible Markup Language) for document structure, which is stricter and more organized.</td>
+            </tr>
+            <tr>
+                <td>Limited multimedia support; relies on third-party plugins like Flash for audio and video.</td>
+                <td>Native support for multimedia elements through <code>&lt;audio&gt;</code> and <code>&lt;video&gt;</code> tags.</td>
+            </tr>
+            <tr>
+                <td>Does not support local storage natively.</td>
+                <td>Introduces local storage options like Web Storage (localStorage and sessionStorage) for storing data on the client side.</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

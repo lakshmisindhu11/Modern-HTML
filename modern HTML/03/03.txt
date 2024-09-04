@@ -1,0 +1,13 @@
+Accessibility is the practice of making your websites usable by as many people as possible.
+ We traditionally think of this as being about people with disabilities, but the practice 
+ of making sites accessible also benefits other groups such as those using mobile devices, 
+ or those with slow network connections.
+
+ benefits:
+ -  Accessibility is a key factor in search engine optimization (SEO) as search engines favor websites that 
+ are accessible to all users.
+ -  Accessibility is a key factor in user experience (UX) as it ensures that all users can
+ navigate and interact with your website.
+ -  Other good practices that improve accessibility also make your site more usable by 
+ other groups, such as mobile phone users or those on low network speed. In fact, everyone
+  can benefit from many such improvements.

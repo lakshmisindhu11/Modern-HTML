@@ -1,0 +1,10 @@
+3 ways to improve accessibility in HTML
+Use semantic HTML
+Semantic HTML elements help screen readers interpret a page's structure, which allows users to navigate and understand the content more easily. 
+ 
+Use descriptive link text
+Descriptive link text helps users understand what they'll find when they click on a link. 
+ 
+Use proper color contrast
+Proper color contrast helps users read content, especially those with visual disabilities like color blindness. 
+ 

@@ -1,0 +1,14 @@
+
+what is entity?
+A text fragment (or "string") that starts with an ampersand (&) and ends with a semicolon
+ (;) is known as an HTML entity. Entities are widely used to show unseen characters, 
+ such as non-breaking spaces and reserved characters, which would be read as HTML code.
+
+list of entities:
+Character	Entities
+≥	        &GreaterEqual;
+©	        &copy;
+€	        &euro;
+ⱻ	        &exist;
+™	        &trade;
+®	        &reg;
